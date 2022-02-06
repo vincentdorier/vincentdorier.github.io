@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+{% include hero.html %}
+
+<section class="info-section">
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="container__inner">
+        <div class="contaniner__inner-box">
+          <div class="row">
+            {% include author.html %}
+            {% include progress.html %}
+            {% include events.html %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+
+<div class="container">
+  <div class="blog__separation">
+    <img src="/images/heavy-gear-flourish.svg" class="blog__separation__img"/>
+  </div>
+  <div class="row">
+    <div class="col col-12">
+      <div class="container__inner">
+        <div class="contaniner__inner-box">
+          <div class="row grid">
+            {% if site.posts.size > 0 %}
+              {% assign curDate = site.time | date: '%s' %}
+              {% for post in paginator.posts %}
+                {% assign postStartDate = post.date | date: '%s' %}
+                {% if postStartDate <= curDate %}
+                  {% include article-content.html %}
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+{% include pagination.html %}

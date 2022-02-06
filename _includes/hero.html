@@ -1,0 +1,37 @@
+<!-- begin hero -->
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      {% if site.data.hero %}
+      <section class="hero">
+        <div class="hero__inner">
+          <div class="hero__image">
+            <img src="{{site.baseurl}}{{site.data.hero.image}}" alt="{{site.data.hero.title}}">
+          </div>
+          <div class="hero__content">
+            <h1 class="hero__title">{{site.data.hero.title}}</h1>
+            <h2 class="hero__subtitle">{{site.data.hero.subtitle}}</h2>
+            <div align="center">
+              <p class="hero__desc">{{site.data.hero.description}}</p>
+            </div>
+            {% if site.data.hero.link %}
+            <a class="button button--buy" href="{{site.data.hero.link.url}}">{{site.data.hero.link.name}}</a>
+            {% endif %}
+          </div>
+        </div>
+      </section>
+      {% else %}
+      <section class="hero-without-image">
+        <div class="hero-inner">
+          <div class="hero-content">
+            <h1 class="hero__title">{{site.data.hero.title}}</h1>
+            <h2 class="hero__subtitle">{{site.data.hero.subtitle}}</h2>
+            <p class="hero__desc">{{site.data.hero.description}}</p>
+          </div>
+        </div>
+      </section>
+      {% endif %}
+    </div>
+  </div>
+</div>
+<!-- begin hero -->

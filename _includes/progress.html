@@ -1,0 +1,11 @@
+<div class="col col-4 col-d-6 col-t-12 animate hidden-sm">
+  {% for book in site.data.progress %}
+  <div class="progress-cell">
+    {{ book.title }} - [{{ book.status }}]
+    <div class="progress progress-striped">
+      <div class="progress-bar" style="width:{{book.percent}}%">
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>

@@ -1,0 +1,30 @@
+---
+layout: page
+title: Contact
+permalink: /contact/
+image: '/images/typewriter.jpeg'
+---
+<div class="form-container">
+  {% if site.data.contact.description %}
+  <p class="contact-description">{{site.data.contact.description}}</p>
+  {% endif %}
+  <form class="form"
+    action="{% if site.data.contact.email %}https://formspree.io/{{site.data.contact.email}}{% else %}#{% endif %}" method="POST">
+    <div class="form__group">
+      <label class="form__label" for="form-name">Votre Nom</label>
+      <input class="form__input" id="form-name" type="text" name="name" placeholder="Nom..." required>
+    </div>
+    <div class="form__group">
+      <label class="form__label" for="form-email">Votre Email</label>
+      <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email..." required>
+    </div>
+    <div class="form__group">
+      <label class="form__label" for="form-text">Votre Message</label>
+      <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="Message..." required></textarea>
+    </div>
+    <div class="form__group">
+      <button class="button button--primary" type="submit">Envoyer</button>
+    </div>
+    <input type="hidden" name="_next" value="{{ site.baseurl }}/contact/thanks/" />
+  </form>
+</div>
