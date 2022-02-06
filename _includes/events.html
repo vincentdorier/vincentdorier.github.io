@@ -2,7 +2,7 @@
   {% assign num_events_shown = 0 %}
   {% assign curDate = site.time | date: '%s' %}
   {% for post in site.posts reversed %}
-    {% if post.tags contains "Evenement" %}
+    {% if post.tags contains "evenement" %}
       {% assign postStartDate = post.date | date: '%s' %}
       {% if postStartDate >= curDate %}
         {% assign num_events_shown = num_events_shown | plus:1 %}
