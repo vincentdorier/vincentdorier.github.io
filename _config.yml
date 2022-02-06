@@ -1,7 +1,6 @@
 #-------------------------------
 # General Site Settings
 title: Vincent Dorier
-title_styled: Vincent D<i class="fas fa-cog"></i>rier
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Site personnel de Vincent Dorier, auteur.
 baseurl: "" # The subpath of your site, e.g. /blog
