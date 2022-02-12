@@ -19,8 +19,10 @@ author:
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com
 social:
-- {icon: "ion-logo-facebook", link: "https://facebook.com/Vincent.Dorier.Auteur"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com/vincent.dorier.auteur"}
+  facebook: https://facebook.com/Vincent.Dorier.Auteur
+  instagram: https://instagram.com/vincent.dorier.auteur
+#- {icon: "ion-logo-facebook", link: "https://facebook.com/Vincent.Dorier.Auteur"}
+#- {icon: "ion-logo-instagram", link: "https://instagram.com/vincent.dorier.auteur"}
 #- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 #- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 #- {icon: "ion-logo-github", link: "https://github.com"}
