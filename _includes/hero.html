@@ -5,8 +5,9 @@
       <section class="hero">
         <div class="hero__inner">
 
-          <div class="hero__image">
-            <img src="{{site.baseurl}}{{site.data.hero.image}}" alt="{{site.data.hero.title}}">
+          <div class="hero__image hidden-on-mobile">
+            <img src="{{site.baseurl}}{{site.data.hero.image}}" class="hide-on-mobile" alt="{{site.data.hero.title}}">
+            <img src="{{site.baseurl}}{{site.data.hero.image_mobile}}" class="only-on-mobile" alt="{{site.data.hero.title}}">
           </div> <!-- hero__image -->
 
           <div class="hero__content">
@@ -22,8 +23,15 @@
             </div>
 
             <div class="hero__desc">
-              <span>En librairie le 12 Mars 2022!</span>
-              <a class="button--hero" href="#">Découvrir...</a>
+              <div class="container">
+                <div class="row">
+                  <div class="col col-10 col-m-12">
+                    <span>En librairie le 12 Mars 2022!</span>
+                    <a class="button--hero" href="#">Découvrir...</a>
+                  </div>
+                  <div class="col col-2 hide-on-mobile">
+                    <img src="/images/rroyzz.png"/>
+                  </div>
             </div>
 
           </div> <!-- hero_content -->

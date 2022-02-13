@@ -3,6 +3,7 @@
 title: Les Automates de Havenlon
 subtitle: Le cycle de Havenlon, I
 image: '/images/havenlon-banner.jpg'
+image_mobile: '/images/havenlon-background.jpg'
 title_image: '/images/havenlon-title.png'
 link:
   url: '#'

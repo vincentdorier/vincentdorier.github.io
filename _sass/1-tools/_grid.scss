@@ -116,7 +116,7 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
       .col-m-#{$i} {
         width: percentage( $i / $columns );
       }
-    }  
+    }
 
     @for $i from 0 through $columns {
       .push-m-#{$i} {
@@ -131,4 +131,16 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
     }
   }
 
+}
+
+@media(max-width: $tablet) {
+  .hide-on-mobile {
+      display: none;
+  }
+}
+
+@media(min-width: $tablet) {
+  .only-on-mobile {
+    display: none;
+  }
 }
