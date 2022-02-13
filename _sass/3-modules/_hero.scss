@@ -123,6 +123,10 @@
   a {
     display: inline-block;
   }
+  img {
+    background-color: rgba(white, 0.3);
+    box-shadow: 0 0px 40px 40px rgba(white, 0.3);
+  }
   @media only screen and (max-width: $mobile) {
     width: 100%;
   }

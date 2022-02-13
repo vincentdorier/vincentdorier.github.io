@@ -5,26 +5,22 @@ permalink: /about/
 image: '/images/vincentdorier2.jpeg'
 ---
 
-Hi, my name is Brandon Watson. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird.
+Docteur en physique quantique, Vincent Dorier est un passionné des Sciences.
+Mais s’il s’intéresse depuis toujours à comprendre le monde qui l’entoure, il développe
+très tôt un véritable engouement pour la création de mondes imaginaires.
 
-![Time to think]({{site.baseurl}}/images/31.jpg)
-*Time to think*
+Il commence à écrire en 2010, et tombe tête la première dans l’addiction. Après un
+passage par la Science-Fiction, sa plume l’emmène vers la High Fantasy, où il laisse
+libre court à son imagination et farfouille les sciences de notre monde pour rendre
+ses univers cohérents, mais définitivement magiques.
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally.
+Nourri aux classiques du roman historique (Dumas, Hugo…) et aux grands noms
+des littératures de l’imaginaire (Asimov, Eddings, Sanderson…), Vincent termine son
+doctorat et se lance enfin dans l’écriture à temps plein. Il enchaîne alors différents
+styles : Steampunk, Fantasy humoristique et Heroic Fantasy, avec toujours une
+certaine noirceur dans les thèmes et des parallèles déroutants avec notre monde
+actuel.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/29.jpg">
-    <img src="/images/30.jpg">
-    <img src="/images/31.jpg">
-  </div>
-</div>
-
-The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time!
-
-<p><iframe src="https://www.youtube.com/embed/ZSPkcpGmflE" frameborder="0" allowfullscreen></iframe></p>
-
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion.
-
-Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray.
+Son premier roman "Les automates de Havenlon" est le premier tome d'une trilogie
+remplie d'aventures, de conflits de classe et d'inventions révolutionnaires,
+bref : du Steampunk à l'état pur.

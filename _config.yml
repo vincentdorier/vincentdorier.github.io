@@ -67,6 +67,9 @@ defaults:
 include:
   - _pages
 
+exclude:
+  - old
+
 # Tags
 tag_page_dir:         tag
 tag_page_layout:      tag_page
