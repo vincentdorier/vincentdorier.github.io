@@ -2,9 +2,8 @@
 # Hero Settings
 title: Les Automates de Havenlon
 subtitle: Le cycle de Havenlon, I
-description: ""
-    #  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu ultrices velit. Maecenas sagittis rutrum quam et tempus. In euismod ac quam eget vulputate. Mauris laoreet velit consequat justo sollicitudin feugiat. Praesent dictum dui neque, eu fringilla lacus ornare ut. Nullam hendrerit sem a augue vehicula, feugiat faucibus nunc dictum. Integer pharetra leo et neque porttitor, nec pretium orci viverra. Donec nec mi quis justo pretium dignissim. Ut id magna sit amet eros venenatis tristique a malesuada orci. Quisque ut tincidunt nulla. Cras maximus libero sed augue finibus vulputate. Praesent scelerisque tortor bibendum, volutpat velit ac, blandit velit. Ut nec justo tempor, feugiat mauris nec, auctor nisi. Nam semper augue nec pharetra scelerisque. Suspendisse nisi enim, rhoncus ut libero nec, ullamcorper pellentesque nulla. Nam tincidunt, nisi a finibus pretium, lectus diam interdum metus, id faucibus leo odio eget lacus. Vestibulum porta hendrerit neque quis venenatis.
-image: '/images/havenlon-background.jpeg'
+image: '/images/havenlon-banner.jpg'
+title_image: '/images/havenlon-title.png'
 link:
   url: '#'
   name: Commander

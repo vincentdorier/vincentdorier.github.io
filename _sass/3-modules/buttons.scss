@@ -48,22 +48,23 @@
     }
   }
 
-  &--buy {
+  &--hero {
     position: relative;
-    height: 60px;
-    width: 100%;
-    max-width: 280px;
-    font-family: $heading-font-family;
-    font-size: 12px;
-    line-height: 60px;
+    font-size: 24px;
     font-weight: 600;
-    letter-spacing: 1px;
-    text-transform: uppercase;
     transition: all .2s ease;
-    background-color: $dark;
+    padding: 3px 8px 0px 8px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    box-shadow: -2px 2px 1px rgba($dark, 0.4);
+    border: 1px solid $gold;
+    color: $gold;
+    background-color: $blue-dark;
 
     &:hover {
-      background-color: darken($dark, 1%);
+      background-color: lighten(cyan, 50%);
+      color: darken($gold, 40%);
     }
   }
 

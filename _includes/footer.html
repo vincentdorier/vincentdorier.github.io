@@ -2,6 +2,8 @@
 <section class="footer-widgets">
   <div class="container">
     <div class="row">
+
+      {% if false %}
       <div class="col col-4 col-d-6 col-t-12">
         <div class="widget widget-info">
           <div class="footer-logo">
@@ -11,9 +13,12 @@
               {{site.title}}
             {% endif %}
           </div>
-          <!--  <p class="footer-desc">{{site.hero.description}}</p> -->
+          <p class="footer-desc">{{site.hero.description}}</p>
         </div>
       </div>
+      {% endif %}
+
+      {% if false %}
       <div class="col col-4 col-d-6 col-t-12">
         <div class="widget widget-nav">
           <div class="widget__head">
@@ -22,8 +27,10 @@
           {%include navigation.html%}
         </div>
       </div>
+      {% endif %}
+
       {% if site.mailchimp %}
-      <div class="col col-4 col-d-6 col-t-12">
+      <div class="col col-4 push-4 pull-4 col-d-6 push-d-3 pull-d-3 col-t-12 push-t-0 pull-t-0">
         <div class="widget widget-subscribe">
           <div class="widget__head">
             <h3 class="widget__title">S'inscrire à la newsletter</h3>
@@ -42,6 +49,7 @@
         </div>
       </div>
       {% endif %}
+
     </div>
   </div>
 </section>
@@ -52,11 +60,12 @@
   <div class="container">
     <div class="row">
       <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
-      <div class="footer__inner">
-        {% include social-links.html %}
-        <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/"><strong>{{site.title}}</strong></a>.
-          Designed by <a href="https://mdorier.github.io">Matthieu Dorier</a>, from a template
-          by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.</div>
+        <div class="footer__inner">
+          {% if false %}{% include social-links.html %}{% endif %}
+          <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/"><strong>{{site.title}}</strong></a>.
+            Designed by <a href="https://mdorier.github.io">Matthieu Dorier</a>, from a template
+            by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.
+          </div>
         </div>
       </div>
     </div>

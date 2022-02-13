@@ -1,36 +1,34 @@
 <!-- begin hero -->
 <div class="container">
   <div class="row">
-    <div class="col col-12">
-      {% if site.data.hero %}
+    <div class="col-banner col col-12">
       <section class="hero">
         <div class="hero__inner">
+
           <div class="hero__image">
             <img src="{{site.baseurl}}{{site.data.hero.image}}" alt="{{site.data.hero.title}}">
-          </div>
+          </div> <!-- hero__image -->
+
           <div class="hero__content">
-            <h1 class="hero__title">{{site.data.hero.title}}</h1>
-            <h2 class="hero__subtitle">{{site.data.hero.subtitle}}</h2>
-            <div align="center">
-              <p class="hero__desc">{{site.data.hero.description}}</p>
+            <div class="container">
+              <div class="row">
+                <div class="col col-7 col-d-7 col-t-12 col-m-12" style="justify-content: center; align-items: center">
+                  <img src="{{site.baseurl}}{{site.data.hero.title_image}}"/>
+                </div>
+                <div class="col col-5 col-d-5 col-t-12 col-m-12">
+                  <!-- TODO put secondary image here and make it disappear on mobiles -->
+                </div>
+              </div>
             </div>
-            {% if site.data.hero.link %}
-            <a class="button button--buy" href="{{site.data.hero.link.url}}">{{site.data.hero.link.name}}</a>
-            {% endif %}
-          </div>
-        </div>
+
+            <div class="hero__desc">
+              <span>En librairie le 12 Mars 2022!</span>
+              <a class="button--hero" href="#">Découvrir...</a>
+            </div>
+
+          </div> <!-- hero_content -->
+        </div> <!-- hero_inner -->
       </section>
-      {% else %}
-      <section class="hero-without-image">
-        <div class="hero-inner">
-          <div class="hero-content">
-            <h1 class="hero__title">{{site.data.hero.title}}</h1>
-            <h2 class="hero__subtitle">{{site.data.hero.subtitle}}</h2>
-            <p class="hero__desc">{{site.data.hero.description}}</p>
-          </div>
-        </div>
-      </section>
-      {% endif %}
     </div>
   </div>
 </div>
