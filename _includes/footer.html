@@ -29,6 +29,17 @@
       </div>
       {% endif %}
 
+      {% if site.in_construction %}
+      <div class="col col-12 col-d-12 col-t-12">
+        <div class="widget widget-subscribe">
+          <div class="widget__head">
+            <h3 class="widget__title">Site en cours de construction...</h3>
+          </div>
+        </div>
+      </div>
+
+      {% else %}
+
       {% if site.mailchimp %}
       <div class="col col-4 push-4 pull-4 col-d-6 push-d-3 pull-d-3 col-t-12 push-t-0 pull-t-0">
         <div class="widget widget-subscribe">
@@ -50,6 +61,8 @@
       </div>
       {% endif %}
 
+      {% endif %}
+
     </div>
   </div>
 </section>
@@ -61,7 +74,6 @@
     <div class="row">
       <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
         <div class="footer__inner">
-          {% if false %}{% include social-links.html %}{% endif %}
           <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/"><strong>{{site.title}}</strong></a>.
             Designed by <a href="https://mdorier.github.io">Matthieu Dorier</a>, from a template
             by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.

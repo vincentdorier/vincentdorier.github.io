@@ -5,12 +5,14 @@
   <li class="nav__item">
     <a href="{{ site.baseurl }}/about/" class="nav__link">L'auteur</a>
   </li>
+  {% unless site.in_construction %}
   <li class="nav__item">
     <a href="{{ site.baseurl }}/romans/" class="nav__link">Romans</a>
   </li>
   <li class="nav__item">
     <a href="{{ site.baseurl }}/univers/" class="nav__link">Univers</a>
   </li>
+  {% endunless %}
   <li class="nav__item">
     <a href="{{ site.baseurl }}/contact/" class="nav__link">Contact</a>
   </li>
@@ -20,16 +22,4 @@
   <li class="nav__item">
     <a href="{{site.social.instagram}}" target="_blank"><i class="fab fa-instagram"></i></a>
   </li>
-
-  {% if false %}
-  {% for page in site.pages %}
-    {% unless page.name == 'tags.html' or page.name == '404.html' %}
-      {% if page.title %}
-      <li class="nav__item">
-        <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
-      </li>
-      {% endif %}
-    {% endunless %}
-  {% endfor %}
-  {% endif %}
 </ul>

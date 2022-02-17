@@ -4,6 +4,7 @@ layout: default
 
 {% include hero.html %}
 
+{% unless site.in_construction %}
 <section class="info-section">
 <div class="container">
   <div class="row">
@@ -22,7 +23,7 @@ layout: default
 </div>
 </section>
 
-
+<section>
 <div class="container">
   <div class="blog__separation">
     <h3 class="blog__section__title">• BLOG •</h3>
@@ -50,3 +51,4 @@ layout: default
 </section>
 
 {% include pagination.html %}
+{% endunless %}

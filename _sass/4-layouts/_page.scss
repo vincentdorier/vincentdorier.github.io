@@ -16,6 +16,18 @@
   }
 }
 
+.page-subtitle {
+  font-size: 23px;
+  margin-bottom: 20px;
+  text-align: center;
+  @media only screen and (max-width: $tablet) {
+    font-size: 18px;
+  }
+  @media only screen and (max-width: $tablet) {
+    font-size: 12px;
+  }
+}
+
 .page-image {
   position: absolute;
   top: 0;
@@ -27,7 +39,7 @@
 
 .image-box {
   position: relative;
-  padding-top: 50%;
+  padding-top: 70%;
   border-radius: 30px;
   overflow: hidden;
   background-color: $dark;

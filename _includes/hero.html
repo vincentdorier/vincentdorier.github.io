@@ -5,19 +5,23 @@
       <section class="hero">
         <div class="hero__inner">
 
-          <div class="hero__image hidden-on-mobile">
-            <img src="{{site.baseurl}}{{site.data.hero.image}}" class="hide-on-mobile" alt="{{site.data.hero.title}}">
-            <img src="{{site.baseurl}}{{site.data.hero.image_mobile}}" class="only-on-mobile" alt="{{site.data.hero.title}}">
+          <div class="hero__image">
+              <img src="{{site.baseurl}}{{site.data.hero.images.background.desktop}}" class="hide-on-mobile" alt="{{site.data.hero.title}}">
+              <img src="{{site.baseurl}}{{site.data.hero.images.background.mobile}}" class="only-on-mobile" alt="{{site.data.hero.title}}">
           </div> <!-- hero__image -->
 
           <div class="hero__content">
             <div class="container">
               <div class="row">
                 <div class="col col-7 col-d-7 col-t-12 col-m-12" style="justify-content: center; align-items: center">
-                  <img src="{{site.baseurl}}{{site.data.hero.title_image}}"/>
+                  {% if site.data.hero.images.left %}
+                  <img src="{{site.baseurl}}{{site.data.hero.images.left}}"/>
+                  {% endif %}
                 </div>
                 <div class="col col-5 col-d-5 col-t-12 col-m-12">
-                  <!-- TODO put secondary image here and make it disappear on mobiles -->
+                  {% if site.data.hero.images.left %}
+                  <img class="hide-on-mobile" src="{{site.baseurl}}{{site.data.hero.images.right}}"/>
+                  {% endif %}
                 </div>
               </div>
             </div>
@@ -26,11 +30,19 @@
               <div class="container">
                 <div class="row">
                   <div class="col col-10 col-m-12">
-                    <span>En librairie le 12 Mars 2022!</span>
-                    <a class="button--hero" href="#">Découvrir...</a>
+                    {% if site.data.hero.text %}
+                    <span>{{ site.data.hero.text }}</span>
+                    {% endif %}
+                    {% if site.data.hero.button %}
+                    <a class="button--hero" href="{{ site.data.hero.button.url }}">
+                      {{ site.data.hero.button.text }}
+                    </a>
+                    {% endif %}
                   </div>
                   <div class="col col-2 hide-on-mobile">
-                    <img src="/images/rroyzz.png" />
+                    {% if site.data.hero.editor_logo %}
+                    <img src="{{ site.data.hero.editor_logo }}" />
+                    {% endif %}
                   </div>
             </div>
 
