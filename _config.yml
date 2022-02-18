@@ -4,7 +4,7 @@ title: Vincent Dorier
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Site personnel de Vincent Dorier, auteur.
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://vincentdorier.com" # The base hostname & protocol for your site, e.g. http://example.com
 
 future: true
 
@@ -70,6 +70,11 @@ include:
 exclude:
   - old/
   - vendor/bundle/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - _pages/romans.html # temporarily excluded
+  - _pages/univers.html # temporarily excluded
 
 # Tags
 tag_page_dir:         tag
