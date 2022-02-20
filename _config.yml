@@ -66,6 +66,7 @@ defaults:
 
 include:
   - _pages
+  - _romans
 
 exclude:
   - old/
