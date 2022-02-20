@@ -9,7 +9,7 @@ image: '/images/typewriter.jpeg'
   <p class="contact-description">{{site.data.contact.description}}</p>
   {% endif %}
   <form class="form"
-    action="{% if site.data.contact.email %}https://formspree.io/f/{{site.data.contact.form_id}}{% else %}#{% endif %}" method="POST">
+    action="https://formspree.io/f/{{site.data.contact.form_id}}" method="POST">
     <div class="form__group">
       <label class="form__label" for="form-name">Votre Nom</label>
       <input class="form__input" id="form-name" type="text" name="name" placeholder="Nom..." required>
