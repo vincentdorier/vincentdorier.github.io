@@ -2,7 +2,7 @@
 layout: roman
 title: Les Automates de Havenlon
 subtitle: Le Cycle de Havenlon, Tome I
-permalink: /les-automates-de-havenlon/
+#permalink: /romans/les-automates-de-havenlon/
 image: '/images/havenlon-on-table.png'
 ---
 
