@@ -66,15 +66,24 @@ defaults:
       path: '_romans'
     values:
       permalink: /romans/:title
+  - scope:
+      path: '_univers'
+    values:
+      permalink: /univers/:title
+
 
 collections:
   romans:
     output: true
     permalink: /romans/:title/
+  univers:
+    output: true
+    permalink: /univers/:title/
 
 include:
   - _pages
   - _romans
+  - _univers
 
 exclude:
   - old/
@@ -82,7 +91,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - _pages/univers.html # temporarily excluded
 
 # Tags
 tag_page_dir:         tag

@@ -1,6 +1,30 @@
 ---
-layout: tag_page
+layout: default
 title: Univers
 permalink: /univers/
-tag: univers
 ---
+<div class="container">
+  <div class="row">
+    <div class="col col-8 col-d-10 col-m-12 push-m-0 push-d-1 push-2">
+      <div class="archive-box">
+        <h1 class="archive-title">Univers</h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col col-12 col-d-10 col-m-12 push-m-0 push-d-1">
+      <div class="container__inner">
+        <div class="contaniner__inner-box">
+          <div class="row grid">
+            {% for univers in site.univers %}
+              {% include univers-content.html %}
+            {%- endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
