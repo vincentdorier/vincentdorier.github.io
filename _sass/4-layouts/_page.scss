@@ -43,11 +43,11 @@
   border-radius: 30px;
   overflow: hidden;
   background-color: $dark;
-  
+
   @media only screen and (max-width: $desktop) {
-    padding-top: 55%;
+    padding-top: 70%;
   }
-  
+
   @media only screen and (max-width: $tablet) {
     padding-top: 65%;
   }
