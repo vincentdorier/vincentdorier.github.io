@@ -1,0 +1,40 @@
+<div class="article col col-4 col-d-6 col-t-12 grid__post animate">
+  <div class="article__inner">
+    {% if event.featured %}
+    <span class="featured-post"><i class="ion ion-md-star"></i></span>
+    {% endif %}
+    {% if event.thumbnail %}
+    <a class="article__image" href="{{event.url | prepend: site.baseurl}}">
+      <img src="{{site.baseurl}}{{event.thumbnail}}" alt="{{event.title}}">
+    </a>
+    {% elsif event.image %}
+    <a class="article__image" href="{{event.url | prepend: site.baseurl}}">
+      <img src="{{site.baseurl}}{{event.image}}" alt="{{event.title}}">
+    </a>
+    {% endif %}
+    <div class="article__content">
+      <h2 class="article__title">
+        <a href="{{ event.url | prepend: site.baseurl }}"><i class="fas fa-calendar-alt"></i> {{event.title}}</a>
+      </h2>
+      <p class="article__excerpt">
+        {% if event.description %}{{ event.description }}{% else %}{{ event.content | strip_html | truncate: 85 }}{% endif %}
+      </p>
+      <div class="article__meta">
+        <div class="article__author">
+          {{event.location}}
+        </div>
+        {% capture i18n_date %}
+        {{ event.date | date: "%-d" }}
+        {% assign m = event.date | date: "%-m" | minus: 1 %}
+        {{ site.data.fr.months[m] }}
+        {{ event.date | date: "%Y" }}
+        {% endcapture %}
+        <span class="article__date">
+          <time datetime="{{ event.date | date_to_xmlschema }}">
+            {{ i18n_date }}
+          </time>
+        </span>
+      </div>
+    </div>
+  </div>
+</div>

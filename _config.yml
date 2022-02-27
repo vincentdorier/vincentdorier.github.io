@@ -62,14 +62,18 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
-  - scope:
-      path: '_romans'
-    values:
-      permalink: /romans/:title
-  - scope:
-      path: '_univers'
-    values:
-      permalink: /univers/:title
+#  - scope:
+#      path: '_romans'
+#    values:
+#      permalink: /romans/:title
+#  - scope:
+#      path: '_univers'
+#    values:
+#      permalink: /univers/:title
+#  - scope:
+#      path: '_evenements'
+#    values:
+#      permalink: /evenements/:title
 
 
 collections:
@@ -79,11 +83,15 @@ collections:
   univers:
     output: true
     permalink: /univers/:title/
+  evenements:
+    output: true
+    permalink: /evenements/:year-:month-:day-:title/
 
 include:
   - _pages
   - _romans
   - _univers
+  - _evenements
 
 exclude:
   - old/
@@ -100,5 +108,3 @@ tag_permalink_style:  pretty
 sass:
   sass_dir: _sass
   style: compressed
-
-in_construction: true

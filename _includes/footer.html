@@ -40,15 +40,14 @@
 
       {% else %}
 
-      {% if site.mailchimp %}
       <div class="col col-4 push-4 pull-4 col-d-6 push-d-3 pull-d-3 col-t-12 push-t-0 pull-t-0">
         <div class="widget widget-subscribe">
           <div class="widget__head">
             <h3 class="widget__title">S'inscrire à la newsletter</h3>
           </div>
           <p class="subscribe-subtitle">Inscrivez-vous à la newsletter pour recevoir les dernières informations.</p>
-          <form class="subscribe-form validate" action="{% if site.mailchimp-identifier %}//{{site.mailchimp-identifier}}{% else %}#{% endif %}"
-            method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
+          <form class="subscribe-form validate" action="https://formspree.io/f/{{site.data.contact.form_id}}"
+            method="POST" target="_blank">
             <div class="subscribe-group">
               <div class="subscribe-group-top">
                 <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
@@ -56,10 +55,11 @@
                 <button class="subscribe-button button button--primary" id="membedded-subscribe" type="submit" name="subscribe">S'inscrire</button>
               </div>
             </div>
+            <input type="hidden" name="_next" value="{{ page.url }}" />
+            <input type="hidden" name="text" value="Merci de m'inscrire à votre Newsletter!" />
           </form>
         </div>
       </div>
-      {% endif %}
 
       {% endif %}
 
@@ -75,8 +75,10 @@
       <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
         <div class="footer__inner">
           <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/"><strong>{{site.title}}</strong></a>.
+            <!--
             Designed by <a href="https://mdorier.github.io">Matthieu Dorier</a>, from a template
             by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.
+            -->
           </div>
         </div>
       </div>

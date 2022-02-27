@@ -23,6 +23,7 @@ layout: default
 </div>
 </section>
 
+{% if site.posts.size > 0 %}
 <section>
 <div class="container">
   <div class="blog__separation">
@@ -33,7 +34,6 @@ layout: default
       <div class="container__inner">
         <div class="contaniner__inner-box">
           <div class="row grid">
-            {% if site.posts.size > 0 %}
               {% assign curDate = site.time | date: '%s' %}
               {% for post in paginator.posts %}
                 {% assign postStartDate = post.date | date: '%s' %}
@@ -41,7 +41,6 @@ layout: default
                   {% include article-content.html %}
                 {% endif %}
               {% endfor %}
-            {% endif %}
           </div>
         </div>
       </div>
@@ -49,6 +48,7 @@ layout: default
   </div>
 </div>
 </section>
+{% endif %}
 
 {% include pagination.html %}
 {% endunless %}
