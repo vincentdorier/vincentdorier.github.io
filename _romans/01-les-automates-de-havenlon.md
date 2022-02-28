@@ -11,6 +11,7 @@ style: Steampunk-Fantasy
 pages: 292
 isbn: 978-2-36372-304-8
 buy_links: []
+permalink: /romans/les-automates-de-havenlon
 
 ---
 

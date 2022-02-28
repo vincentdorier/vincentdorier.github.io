@@ -6,7 +6,7 @@ description: Site personnel de Vincent Dorier, auteur.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://vincentdorier.com" # The base hostname & protocol for your site, e.g. http://example.com
 
-future: true
+# future: true
 
 #-------------------------------
 # Author Settings
@@ -65,7 +65,7 @@ defaults:
 #  - scope:
 #      path: '_romans'
 #    values:
-#      permalink: /romans/:title
+#      permalink: /romans/:title/
 #  - scope:
 #      path: '_univers'
 #    values:
