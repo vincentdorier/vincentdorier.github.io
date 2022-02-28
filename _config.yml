@@ -85,7 +85,7 @@ collections:
     permalink: /univers/:title/
   evenements:
     output: true
-    permalink: /evenements/:year-:month-:day-:title/
+    permalink: /evenements/:title/
 
 include:
   - _pages

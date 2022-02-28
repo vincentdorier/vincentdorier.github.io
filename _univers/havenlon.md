@@ -2,6 +2,7 @@
 layout: univers
 title: Havenlon
 image: '/images/havenlon-univers.png'
+permalink: /univers/havenlon
 
 ---
 

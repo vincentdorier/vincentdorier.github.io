@@ -1,16 +1,27 @@
 <div class="col col-4 col-d-6 col-t-12 animate">
+  <h2 style="text-align: center; margin-bottom: 8px;">Événements</h2>
   {% assign num_events_shown = 0 %}
   {% assign curDate = site.time | date: '%s' %}
-  {% for post in site.posts reversed %}
-    {% if post.tags contains "evenement" %}
-      {% assign postStartDate = post.date | date: '%s' %}
-      {% if postStartDate >= curDate %}
-        {% assign num_events_shown = num_events_shown | plus:1 %}
-        {% include event.html %}
-        {% if num_events_shown >= 3 %}
-          {% break %}
-        {% endif %}
+  {% for event in site.evenements %}
+    {% assign eventDate = event.date | date: '%s' %}
+    {% if eventDate >= curDate %}
+      {% assign num_events_shown = num_events_shown | plus:1 %}
+      {% include event.html %}
+      {% if num_events_shown >= 2 %}
+        {% break %}
       {% endif %}
     {% endif %}
   {% endfor %}
+  {% if num_events_shown > 0 %}
+  <h4 style="text-align: center; margin-top: 16px;">
+    <a href="/evenements/">Voir tous les événements</a>
+  </h4>
+  {% else %}
+  <h4 style="text-align: center; margin-top: 16px;">
+   Aucun événement prévu.
+  </h4>
+  <h4 style="text-align: center; margin-top: 16px;">
+    <a href="/evenements/">Voir les événements passés.</a>
+  </h4>
+  {% endif %}
 </div>
