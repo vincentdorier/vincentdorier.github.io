@@ -32,8 +32,14 @@
         <div class="article__author">
           <a href="{{site.baseurl}}/about/" class="article__author-image" style="background-image: url({{site.baseurl}}{{site.author.avatar}})" aria-label="{{site.author.name}}'s Picture"></a> <a href="{{site.baseurl}}/about/" class="article__author-link">{{site.author.name}}</a>
         </div>
+        {% capture i18n_date %}
+        {{ post.date | date: "%-d" }}
+        {% assign m = post.date | date: "%-m" | minus: 1 %}
+        {{ site.data.fr.months[m] }}
+        {{ post.date | date: "%Y" }}
+        {% endcapture %}
         <span class="article__date"><time
-          datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}{{ post.date | date: date_format }}</time></span>
+          datetime="{{ post.date | date_to_xmlschema }}">{{ i18n_date }}</time></span>
       </div>
     </div>
   </div>

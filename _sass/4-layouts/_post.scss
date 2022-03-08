@@ -49,7 +49,7 @@
     font-weight: 700;
     border-radius: 30px;
     color: rgba($white, .9);
-    background-color: $gold; /*$brand-color; */
+    background-color: $brand-color;
     &:hover {
       background-color: darken($gold, 5%);
     }

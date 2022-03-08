@@ -34,12 +34,8 @@ layout: default
       <div class="container__inner">
         <div class="contaniner__inner-box">
           <div class="row grid">
-              {% assign curDate = site.time | date: '%s' %}
               {% for post in paginator.posts %}
-                {% assign postStartDate = post.date | date: '%s' %}
-                {% if postStartDate <= curDate %}
                   {% include article-content.html %}
-                {% endif %}
               {% endfor %}
           </div>
         </div>

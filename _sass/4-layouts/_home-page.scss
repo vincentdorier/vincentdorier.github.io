@@ -96,7 +96,7 @@
 .event {
   align-items: stretch;
   flex-grow: 1;
-  margin-bottom: 16px;
+  argin-bottom: 16px;
   &:hover {
     transform: translateY(-5px);
   }
@@ -379,7 +379,7 @@
     color: rgba($white, .9);
     background-color: $brand-color;
     &:hover {
-      background-color: darken($brand-color, 5%);
+      background-color: darken($gold, 5%);
     }
     &:last-child {
       margin-right: 0;
