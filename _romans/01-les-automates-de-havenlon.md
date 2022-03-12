@@ -39,6 +39,10 @@ génie insoupçonnée des bas-quartiers.
 |-|-|-|
 ![Carte de Havenlon]({{site.baseurl}}/images/havenlon-map.png)|![Propagande]({{site.baseurl}}/images/havenlon-affiche.png)|![Aeriogyre]({{site.baseurl}}/images/havenlon-aeriogyre.png)|
 
+## Acheter
+
+- [RroyzZ](https://www.rroyzzeditions.com/fr/fantastique/286-les-automates-de-havenlon-vincent-dorier.html)
+- [Amazon](https://www.amazon.fr/dp/236372304X/)
 
 ## Informations
 
