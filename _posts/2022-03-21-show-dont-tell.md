@@ -21,7 +21,7 @@ En conséquence, la grande majorité du temps, ça prend beaucoup plus de mots q
 
 ## LE DANGEREUX SHOW DON'T TELL
 
-Le _Show Don't Tell_ est souvent cité comme la règle numéro 1 d'écriture -- celle qui ne peut qu'améliorer notre façon de raconter. À force de l'utiliser dans mes romans et d'observer son exécution ailleurs, j'ai remarqué que ce n'est pas toujours le cas. Parfois, dire, c'est mieux que montrer. Mais quand peut-on déroger à cette règle sacrée ?
+Le _Show Don't Tell_ est souvent cité comme la règle numéro 1 d'écriture -- celle qui ne peut qu'améliorer notre façon de raconter. À force de l'utiliser dans mes romans et d'observer son exécution ailleurs, j'ai remarqué que ce n'est pas toujours le cas. Parfois, dire, c'est mieux que montrer. Mais quand peut-on déroger à cette règle sacrée ? 
 
 # Ce n'est pas utile !
 
