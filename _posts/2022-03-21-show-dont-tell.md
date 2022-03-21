@@ -3,7 +3,7 @@ layout: post
 title:  La règle N°1 d'écriture ?
 date:   2022-03-21
 image:  '/images/2_2.png'
-thumbnail: '/images/2_1.png'
+thumbnail: '/images/2_1.PNG'
 tags:   ecriture
 ---
 
