@@ -41,11 +41,19 @@ génie insoupçonnée des bas-quartiers.
 
 ## Commander
 
-_Les automates de Havenlon_ peut être commandé sur les sites suivants.
-
 - [RroyzZ Editions](https://www.rroyzzeditions.com/fr/fantastique/286-les-automates-de-havenlon-vincent-dorier.html)
 - [Amazon France](https://www.amazon.fr/dp/236372304X/)
 - [Fnac](https://livre.fnac.com/a16839497/Vincent-Dorier-Les-automates-de-Havenlon#omnsearchpos=1)
+
+## En librarie
+
+- Librairie Grangier _(Dijon)_
+- Ciel Rouge _(Dijon)_
+- L'intranquille _(Besançon)
+- La maison de la Presse _(Besançon)_
+- La librairie des Marais _(Villefranche-sur-Saône)
+
+(Liste non exhaustive)
 
 ## Informations
 
