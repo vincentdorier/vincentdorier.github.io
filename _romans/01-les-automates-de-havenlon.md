@@ -49,10 +49,9 @@ génie insoupçonnée des bas-quartiers.
 
 - Librairie Grangier _(Dijon)_
 - Ciel Rouge _(Dijon)_
-- L'intranquille _(Besançon)
+- L'intranquille _(Besançon)_
 - La maison de la Presse _(Besançon)_
-- La librairie des Marais _(Villefranche-sur-Saône)
-
+- La librairie des Marais _(Villefranche-sur-Saône)_
 (Liste non exhaustive)
 
 ## Informations
