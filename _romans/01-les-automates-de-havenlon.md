@@ -47,11 +47,12 @@ génie insoupçonnée des bas-quartiers.
 
 ## En librarie
 
-- Librairie Grangier _(Dijon)_
-- Ciel Rouge _(Dijon)_
-- L'intranquille _(Besançon)_
-- La maison de la Presse _(Besançon)_
-- La librairie des Marais _(Villefranche-sur-Saône)_
+- [Au bonheur des livres](https://www.facebook.com/AuBonheurDesLivres/) _(Strasbourg)_
+- [Librairie Grangier](https://www.librairie-grangier.com/) _(Dijon)_
+- [Ciel Rouge](https://www.ciel-rouge.fr/) _(Dijon)_
+- [L'intranquille](https://www.librairie-intranquille.fr/) _(Besançon)_
+- [La maison de la Presse](https://www.facebook.com/MDPBESANCON/) _(Besançon)_
+- [La librairie des Marais](https://librairiedesmarais.com/) _(Villefranche-sur-Saône)_
 (Liste non exhaustive)
 
 ## Informations
