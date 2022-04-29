@@ -1,0 +1,20 @@
+---
+layout: post
+title:  Soirées de lancement
+date:   2022-04-29
+image:  '/images/triforce_2.png'
+thumbnail: '/images/triforce_carre.png'
+tags:   evenement
+---
+
+## Soirées de lancement "Les automates de Havenlon"
+
+Il y a un mois je célébrais la publication de mon tout premier roman "Les Automates de Havenlon" aux éditions RroyzZ, lors de deux soirées de lancement inoubliables. La première avait lieu à Strasbourg, ma ville actuelle, dans le magnifique bar à jeux "Dooz" ; la seconde se déroulait à Dijon, ma ville de cœur, là où j'ai fait mes études, où j'ai commencé à écrire, où je me suis marié… On a investi le bar à jeux "221b Baker Street". Chaque fois, une trentaine d'invités avaient fait le déplacement jusqu'à ces lieux au décor steampunk-ien, pour m'écouter déblatérer un discours chevrotant sur une scène, acheter un roman dédicacé, puis jouer, rire, boire des coups… Le tout dans une ambiance festive orchestrée par ma chère et tendre @narine_dorier.
+
+Avec le recul, ça me rappelle un peu mon mariage, au-devant de la scène malgré moi, à étaler aux yeux de tous une partie intime de moi-même. Cette fois, c'était mon livre. Un document word que j'avais écrit deux ans avant, qu'on a imprimé (merci encore @rroyzz), emballé dans une magnifique couverture (merci encore @vael), et que je distribuais, enfin, à d'autres mains que les miennes.
+
+Une nouvelle ère qui commence, pour moi.
+
+Et voici quelques photos, pour vous !
+
+VD
