@@ -3,7 +3,7 @@ layout: post
 title:  Soirées de lancement
 date:   2022-04-29
 image:  '/images/lancement-hav1-0.png'
-thumbnail: '/images/lancement-hav1-0.png'
+thumbnail: '/images/lancement-hav1-10.png'
 tags:   evenement
 ---
 
@@ -18,6 +18,8 @@ Une nouvelle ère qui commence, pour moi.
 Et voici quelques photos, pour vous !
 
 VD
+
+PS : Merci à Gohar pour ces magnifiques photos à Dijon.
 
 |-|-|-|
 ![Photo 1]({{site.baseurl}}/images/lancement-hav1-1.png)|![Photo 2]({{site.baseurl}}/images/lancement-hav1-2.png)|![Photo 3]({{site.baseurl}}/images/lancement-hav1-3.png)|
