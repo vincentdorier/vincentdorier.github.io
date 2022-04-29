@@ -2,8 +2,8 @@
 layout: post
 title:  Soirées de lancement
 date:   2022-04-29
-image:  '/images/triforce_2.png'
-thumbnail: '/images/triforce_carre.png'
+image:  '/images/lancement-hav1-0.png'
+thumbnail: '/images/lancement-hav1-0.png'
 tags:   evenement
 ---
 
