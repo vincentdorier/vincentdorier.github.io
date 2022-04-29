@@ -3,7 +3,7 @@ layout: post
 title:  Soirées de lancement
 date:   2022-04-29
 image:  '/images/lancement-hav1-0.png'
-thumbnail: '/images/lancement-hav1-10.png'
+thumbnail: '/images/lancement-hav1-10.jpg'
 tags:   evenement
 ---
 
@@ -22,10 +22,10 @@ VD
 PS : Merci à Gohar pour ces magnifiques photos à Dijon.
 
 |-|-|-|
-![Photo 1]({{site.baseurl}}/images/lancement-hav1-1.png)|![Photo 2]({{site.baseurl}}/images/lancement-hav1-2.png)|![Photo 3]({{site.baseurl}}/images/lancement-hav1-3.png)|
+![Photo 1]({{site.baseurl}}/images/lancement-hav1-1.jpg)|![Photo 2]({{site.baseurl}}/images/lancement-hav1-2.jpg)|![Photo 3]({{site.baseurl}}/images/lancement-hav1-3.jpg)|
 
 |-|-|-|
-![Photo 4]({{site.baseurl}}/images/lancement-hav1-4.png)|![Photo 5]({{site.baseurl}}/images/lancement-hav1-5.png)|![Photo 6]({{site.baseurl}}/images/lancement-hav1-6.png)|
+![Photo 4]({{site.baseurl}}/images/lancement-hav1-4.jpg)|![Photo 5]({{site.baseurl}}/images/lancement-hav1-5.jpg)|![Photo 6]({{site.baseurl}}/images/lancement-hav1-6.jpg)|
 
 |-|-|-|
-![Photo 7]({{site.baseurl}}/images/lancement-hav1-7.png)|![Photo 8]({{site.baseurl}}/images/lancement-hav1-8.png)|![Photo 9]({{site.baseurl}}/images/lancement-hav1-9.png)|
+![Photo 7]({{site.baseurl}}/images/lancement-hav1-7.jpg)|![Photo 8]({{site.baseurl}}/images/lancement-hav1-8.jpg)|![Photo 9]({{site.baseurl}}/images/lancement-hav1-9.jpg)|
