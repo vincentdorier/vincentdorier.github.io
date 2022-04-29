@@ -18,3 +18,12 @@ Une nouvelle ère qui commence, pour moi.
 Et voici quelques photos, pour vous !
 
 VD
+
+|-|-|-|
+![Photo 1]({{site.baseurl}}/images/lancement-hav1-1.png)|![Photo 2]({{site.baseurl}}/images/lancement-hav1-2.png)|![Photo 3]({{site.baseurl}}/images/lancement-hav1-3.png)|
+
+|-|-|-|
+![Photo 4]({{site.baseurl}}/images/lancement-hav1-4.png)|![Photo 5]({{site.baseurl}}/images/lancement-hav1-5.png)|![Photo 6]({{site.baseurl}}/images/lancement-hav1-6.png)|
+
+|-|-|-|
+![Photo 7]({{site.baseurl}}/images/lancement-hav1-7.png)|![Photo 8]({{site.baseurl}}/images/lancement-hav1-8.png)|![Photo 9]({{site.baseurl}}/images/lancement-hav1-9.png)|
