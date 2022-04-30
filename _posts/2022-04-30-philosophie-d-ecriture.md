@@ -2,8 +2,8 @@
 layout: post
 title:  Ma philosophie d'écriture
 date:   2022-04-30
-image:  '/images/triforce_2.png'
-thumbnail: '/images/triforce_carre.png'
+image:  '/images/philosophie-d-ecriture.png'
+thumbnail: '/images/philosophie_carre.png'
 tags:   ecriture
 ---
 
