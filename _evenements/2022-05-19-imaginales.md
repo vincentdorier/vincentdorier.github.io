@@ -6,7 +6,7 @@ address: Parc du Cour, 88000 Epinal
 date: 2022-05-19
 image: '/images/imaginales.png'
 thumbnail: '/images/imaginales-carre.jpg'
-banner: '/images/imaginales-carre.jpg'
+banner: '/images/imaginales-banner.png'
 facebook: https://www.facebook.com/imaginales/
 description: Présentation Vincent Dorier aux Imaginales 2022.
 permalink: /evenements/2022-05-19-imaginales
