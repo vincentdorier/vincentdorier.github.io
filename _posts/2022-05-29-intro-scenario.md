@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Introduction : Portail Scénario
+title:  Introduction du Portail Scénario
 date:   2022-05-29
 image:  '/images/intro_scenario.png'
 thumbnail: '/images/thumb_scenario.png'
