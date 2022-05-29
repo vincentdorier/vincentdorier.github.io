@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Introduction : Portail Univers
+title:  Introduction du Portail Univers
 date:   2022-05-29
 image:  '/images/intro_univers.png'
 thumbnail: '/images/thumb_univers.png'
