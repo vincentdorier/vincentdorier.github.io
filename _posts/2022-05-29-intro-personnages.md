@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Introduction : Portail Personnages
+title:  Introduction Portail Personnages
 date:   2022-05-29
 image:  '/images/intro_personnages.png'
 thumbnail: '/images/thumb_perso.png'
