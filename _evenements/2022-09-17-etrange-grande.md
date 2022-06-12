@@ -19,7 +19,7 @@ permalink: /evenements/2022-09-17-etrange-grande
 
 Cette année je participerai à la toute première édition du festival de littérature de genre Etrange-Grande, qui se tiendra à Hettange-Grande (57) les 17 et 18 septembre 2022. J'y serai avec mon éditeur RroyzZ, et pour l'occasion, "Les automates de Havenlon" a été sélectionné pour le prix des lycéens !
 
-Toutes les infos sur www.https://www.etrange-grande.fr/
+Toutes les infos sur [etrange-grande.fr](www.https://www.etrange-grande.fr/)
 
 Au plaisir de vous y retrouver !
 
