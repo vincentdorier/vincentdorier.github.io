@@ -5,7 +5,7 @@ location: Hettange-Grande
 address: Site périscolaire Europa, 57330 Hettange-Grande
 date: 2022-09-17
 image: '/images/etrange-grande-banner2.png'
-thumbnail: '/images/etrange-grande-carre.jpg'
+thumbnail: '/images/etrange-grande-carre.png'
 banner: '/images/etrange-grande-bannerb2.png'
 facebook: https://www.facebook.com/groups/2094696267371168
 description: Dédicaces au festival Etrange-Grande 2022.
