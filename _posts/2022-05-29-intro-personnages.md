@@ -33,4 +33,4 @@ Parfois, on a prévu un arc narratif qui ne fonctionne pas avec la psychologie d
 
 Les réflexions de cet article servent à poser les bases sur l'invention de personnages. Mais comment construire des arcs narratifs ? Comment développer des personnalités complexes ? Comment trouver des noms ? Comment choisir l'âge du héros ? Je tâche de répondre à ces questions, avec mon approche du storytelling, dans les articles du portail Personnages listés [ici](https://vincentdorier.com/2022/04/15/triforce/).
 
-VD
+![Signature]({{site.baseurl}}/images/signature-doree2.png)
