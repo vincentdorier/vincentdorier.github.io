@@ -29,4 +29,4 @@ Au final, la seule "vraie" règle à suivre quand on veut toucher un large publi
 
 Les théories sont des outils. Elles ne trouvent leur intérêt que dans les objectifs que l'on s'est fixés, et la méthode de construction d'histoires que j'utilise (la [Triforce du Récit](https://vincentdorier.com/2022/04/15/triforce/)) n'y fait pas exception. Gardons-nous de juger ceux qui rejettent les outils, car leur objectif est peut-être différent du nôtre. De même, gardons-nous de juger ceux qui les utilisent en pensant que ça freine la créativité. Les techniques de storytelling contraignent autant l'imagination que les lois de la physique contraignent un magicien.
 
-VD
+![Signature]({{site.baseurl}}/images/signature-doree2.png)
