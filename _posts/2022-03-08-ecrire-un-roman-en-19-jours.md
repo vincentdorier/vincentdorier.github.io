@@ -60,4 +60,4 @@ Alors quand j’ai eu l’opportunité d’écrire à temps plein, j’ai mis de
 
 La dernière chose, enfin, c’est que même si j’ai écrit ce roman en 19 jours, je n’y serais pas arrivé si je n’avais pas passé 10 ans à écrire. Il y a un monde entre la théorie, ce qu’on imagine de l’écriture en lisant des livres ou en écoutant des conférences, et écrire véritablement. J’aurais pu gagner quelques années si j’avais étudié les théories de storytelling plus tôt, mais c’est tout. Écrire un livre, c’est mettre un bout de soi sur des pages… sauf au début. Au début, on y met des bouts des autres, des livres qu’on a lus, des films qu’on a vus. Et ce n’est qu’en écrivant qu’on peut découvrir quel auteur on est.
 
-VD
+![Signature]({{site.baseurl}}/images/signature-doree2.png)
