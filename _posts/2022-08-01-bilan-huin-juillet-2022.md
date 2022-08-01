@@ -39,4 +39,4 @@ Vous l’aurez peut-être vu sur le site : les premiers articles d’introductio
 
 Au plaisir de vous retrouver pour les prochaines news !
 
-VD
+![Signature]({{site.baseurl}}/images/signature-doree2.png)
