@@ -33,4 +33,4 @@ Pour autant, il existe bel et bien des méthodes de construction qui sont partic
 
 Cet article sert à poser les bases sur la construction de scénario. Mais qu'est-ce qu'une structure en 3 ou 4 actes, au juste ? Comment utiliser les arcs narratifs pour développer une histoire ? Quelles méthodes peuvent donner du mouvement à une scène avant même de l'écrire ? Les articles du portail Scénario (retrouvez la liste [ici](https://vincentdorier.com/2022/04/15/triforce/)) permettent d'approfondir chacun de ces points, et d'autres encore.
 
-VD
+![Signature]({{site.baseurl}}/images/signature-doree2.png)
