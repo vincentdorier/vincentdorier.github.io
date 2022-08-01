@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Bilan Juin/Juillet
-date:   2022-03-08
+date:   2022-08-01
 image:  '/images/img-bilan.png'
 thumbnail: '/images/img-bilan.png'
 tags:   news
