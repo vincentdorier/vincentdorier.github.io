@@ -33,4 +33,4 @@ Il y avait maintes façons d'adapter le worldbuilding aux thèmes de Havenlon, e
 
 Dans cet article j'ai voulu donner les bases de ma philosophie en matière de worldbuilding, un sujet d'une richesse immense qui ne pourrait être aborder en quelques lignes. Comment inventer des noms ? Comment conceptualiser une carte ? Comment définir les règles d'un système magique et l'utiliser efficacement, à la fois pour le scénario et le développement des personnages ? A quel moment est-il judicieux de sacrifier la crédibilité du worldbuilding ? Vous trouverez [ici](https://vincentdorier.com/2022/04/15/triforce/) une liste d'articles pour approfondir le sujet.
 
-VD
+![Signature]({{site.baseurl}}/images/signature-doree2.png)
