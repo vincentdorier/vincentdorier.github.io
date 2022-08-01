@@ -37,4 +37,4 @@ Un outil répandu du _Show Don't Tell_ est le changement de point de vue, flashb
 
 Il y aurait encore beaucoup à dire sur cette règle d'écriture, qui peut prendre des formes très diverses selon quel niveau nous intéresse : la phrase, le paragraphe, la scène, l'histoire, les personnages, le thème... Je vais m'arrêter là parce qu'il faut bien s'arrêter un jour, et parce que comme bien souvent dans les questions d'écriture, le plus important est d'y réfléchir par soi-même, sous le prisme de sa propre histoire.
 
-VD
+![Signature]({{site.baseurl}}/images/signature-doree2.png)
