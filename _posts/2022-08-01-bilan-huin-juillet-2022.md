@@ -7,7 +7,7 @@ thumbnail: '/images/img-bilan.png'
 tags:   news
 ---
 
-Aujourd'hui, je fais le bilan de ces deux derniers mois sur mes univers SF/Fantasy.
+Tant de choses se sont passées ces deux derniers mois ! Voici un petit bilan de l'avancée de mes univers SF/Fantasy.
 
 ## Romans publiés
 
