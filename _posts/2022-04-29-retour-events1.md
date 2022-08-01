@@ -17,7 +17,7 @@ Une nouvelle ère qui commence, pour moi.
 
 Et voici quelques photos, pour vous !
 
-VD
+![Signature]({{site.baseurl}}/images/signature-doree2.png)
 
 PS : Merci à Gohar pour ces magnifiques photos à Dijon.
 
