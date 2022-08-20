@@ -5,7 +5,7 @@ images:
   background:
     desktop: '/images/havenlon2-banner.png'
     mobile: '/images/havenlon2-background.png'
-  left: '/images/havenlon2-title-light.png'
+  left: '/images/havenlon2-title-dark.png'
   right: null
 text: Sortie le 17 . 09 . 2022
 button:
