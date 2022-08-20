@@ -2,7 +2,7 @@
 layout: roman
 title: L'Impératrice de l'Ombre
 subtitle: Le Cycle de Havenlon, Tome II
-image: '/images/havenlon-on-table.png'
+image: '/images/hav2-page-roman.png'
 editor:
   name: RroyzZ éditions
   link: https://www.rroyzz-editions.com/
