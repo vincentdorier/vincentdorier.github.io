@@ -16,7 +16,6 @@ permalink: /romans/l-imperatrice-de-l-ombre
 ---
 
 > Havenlon est en pleine effervescence. Quatre ans après la dernière Exposition, la technologie Priscott fourmille dans les rues enneigées. Automates de construction, technomobiles, locomotives rutilantes… La cité est lancée à pleine vitesse sur la route du progrès, le grand Théodore Sandson aux commandes. Dans son ombre se cache une inventrice de dix-sept ans, travaillant sans relâche entourée de ses fidèles machines.
-
 >
 > Jasper Owl, jeune reporter aux méthodes douteuses, fera tout pour rencontrer la célèbre Rosaline Priscott et obtenir le scoop qui propulsera son journal sur le devant de la scène. Parviendra-t-il à révéler au grand jour les secrets de la génie de Havenlon, au risque de réveiller une ancienne colère grondant sous les tuiles des bas quartiers ?
 
