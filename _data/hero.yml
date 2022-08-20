@@ -4,11 +4,11 @@ title: Les Automates de Havenlon, le cycle de Havenlon, II
 images:
   background:
     desktop: '/images/havenlon2-banner.jpg'
-    mobile: '/images/havenlon-background.jpg'
-  left: '/images/havenlon-title.png'
+    mobile: '/images/havenlon2-background.jpg'
+  left: '/images/havenlon2-title.png'
   right: null
 text: Sortie le 17 Septembre 2022
 button:
-  url: '/romans/les-automates-de-havenlon'
+  url: '/romans/les-automates-de-havenlon2'
   text: Découvrir...
 editor_logo: /images/rroyzz.png
