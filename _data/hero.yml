@@ -1,13 +1,13 @@
 #-------------------------------
 # Hero Settings
-title: Les Automates de Havenlon, le cycle de Havenlon, I
+title: Les Automates de Havenlon, le cycle de Havenlon, II
 images:
   background:
-    desktop: '/images/havenlon-banner.jpg'
+    desktop: '/images/Banniere-T2.jpg'
     mobile: '/images/havenlon-background.jpg'
   left: '/images/havenlon-title.png'
   right: null
-text: En librairie le 12 Mars 2022 !
+text: Sortie le 17 Septembre 2022
 button:
   url: '/romans/les-automates-de-havenlon'
   text: Découvrir...
