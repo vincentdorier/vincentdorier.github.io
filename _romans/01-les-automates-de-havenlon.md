@@ -36,6 +36,8 @@ le progrès technologique, vous trouverez votre bonheur avec ce premier saut dan
 univers riche, entre folles inventions de savants, révolutionnaires enhardis et
 génie insoupçonnée des bas-quartiers.
 
+[Lire le prologue]({{site.baseurl}}/pdf/prologue-havenlon1.pdf)
+
 |-|-|-|
 ![Carte de Havenlon]({{site.baseurl}}/images/havenlon-map.png)|![Propagande]({{site.baseurl}}/images/havenlon-affiche.png)|![Aeriogyre]({{site.baseurl}}/images/havenlon-aeriogyre.png)|
 
