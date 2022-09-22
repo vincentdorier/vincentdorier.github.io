@@ -31,7 +31,7 @@ d'une société en pleine fracture.
 ## Commander
 
 - RroyzZ Editions (bientôt disponible)
-- [Amazon France]([https://www.amazon.fr/dp/236372304X/](https://www.amazon.fr/dp/2363723112/ref=sr_1_23?crid=16IHFBGDSYKS9&keywords=l%27imp%C3%A9ratrice+de+l%27ombre&qid=1663704499&sprefix=%2Caps%2C380&sr=8-23))
+- [Amazon France](https://www.amazon.fr/dp/236372304X/](https://www.amazon.fr/dp/2363723112/ref=sr_1_23?crid=16IHFBGDSYKS9&keywords=l%27imp%C3%A9ratrice+de+l%27ombre&qid=1663704499&sprefix=%2Caps%2C380&sr=8-23)
 - Fnac (bientôt disponible)
 
 ## Informations
