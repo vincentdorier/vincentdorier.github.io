@@ -4,7 +4,7 @@ title: Dédicaces Espace Culturel Leclerc
 location: Wasselonne
 address: 58 Rue de Hohengoeft, 67310 Wasselonne
 date: 2022-10-15
-image: '/images/wasselonne-banner.png'
+image: '/images/wasselonne-banner2.png'
 thumbnail: '/images/wasselonne-carre.png'
 banner: '/images/develay-bannerb2.png'
 facebook:
