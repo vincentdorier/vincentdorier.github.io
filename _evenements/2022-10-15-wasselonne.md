@@ -24,5 +24,5 @@ Les romans présentés seront les deux premiers tomes du cycle de Havenlon :
 - [L'impératrice de l'ombre](https://vincentdorier.com/romans/l-imperatrice-de-l-ombre)
 
 Au plaisir de vous y retrouver !
-
+ 
 VD
