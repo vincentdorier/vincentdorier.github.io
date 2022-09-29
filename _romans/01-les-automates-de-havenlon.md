@@ -2,7 +2,7 @@
 layout: roman
 title: Les Automates de Havenlon
 subtitle: Le Cycle de Havenlon, Tome I
-image: '/images/hav1-page-roman.png'
+image: '/images/Couv-hav1.png'
 editor:
   name: RroyzZ éditions
   link: https://www.rroyzz-editions.com/
