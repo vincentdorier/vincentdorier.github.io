@@ -4,8 +4,8 @@ title: Dédicaces Antre Temps
 location: Thionville
 address: 5 Rue de Strasbourg, 57100 Thionville
 date: 2022-11-26
-image: '/images/antre-temps-banner2.png'
-thumbnail: '/images/antre-temps-banner2.png'
+image: '/images/antre-temps-banner2.jpg'
+thumbnail: '/images/antre-temps-banner2.jpg'
 banner: '/images/develay-bannerb2.png'
 facebook:
 description: Dédicaces à l'Antre Temps de Thionville.
