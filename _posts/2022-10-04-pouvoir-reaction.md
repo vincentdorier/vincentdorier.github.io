@@ -21,6 +21,8 @@ Une manière de contourner le problème est de planifier un passage de réaction
 
 Le roman que j’ai écrit après celui-ci a fait office d’exercice en la matière : j’en ai planifié la structure pour avoir une alternance parfaite de chapitres d’action et de chapitres de réaction. Au vu des retours, cette technique a fonctionné à merveille. Encore aujourd’hui, les protagonistes de ce roman sont les personnages les plus complexes qu’il m’ait été donné d’écrire, et c’est sans nul doute grâce au pouvoir de la réaction.
 
-J’ai classé cet article dans le portail Scénario de ma méthode d’écriture car on y parle d’une technique pour structurer le récit et planifier l’enchaînement des scènes, mais un impact direct est sur le développement des personnages. En touchant à la forme, on prépare un terreau fertile pour que nos protagonistes poussent et mûrissent à leur maximum. Alors surtout, ne sous-estimons par la réaction. Laissons à nos héros et héroïnes le temps de respirer, de penser, de douter, de se contredire, de se questionner, surtout dans les moments difficiles. Les larmes sont invisibles sans un esprit qui hurle.
+J’ai classé cet article dans le portail Scénario de ma méthode d’écriture car on y parle d’une technique pour structurer le récit et planifier l’enchaînement des scènes, mais un impact direct est sur le développement des personnages. En touchant à la forme, on prépare un terreau fertile pour que nos protagonistes poussent et mûrissent à leur maximum. Alors surtout, ne sous-estimons par la réaction. Laissons à nos héros et héroïnes le temps de respirer, de penser, de douter, de se contredire, de se questionner, surtout dans les moments difficiles.
+
+Les larmes sont invisibles sans un esprit qui hurle.
 
 ![Signature]({{site.baseurl}}/images/signature-doree2.png)
