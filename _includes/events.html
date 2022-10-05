@@ -7,7 +7,7 @@
     {% if eventDate >= curDate %}
       {% assign num_events_shown = num_events_shown | plus:1 %}
       {% include event.html %}
-      {% if num_events_shown >= 3 %}
+      {% if num_events_shown >= 4 %}
         {% break %}
       {% endif %}
     {% endif %}
