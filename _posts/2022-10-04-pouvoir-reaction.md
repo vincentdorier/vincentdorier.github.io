@@ -2,8 +2,8 @@
 layout: post
 title:  Le pouvoir de la réaction
 date:   2022-10-04
-image:  '/images/reaction1.png'
-thumbnail: '/images/reaction2.png'
+image:  '/images/reaction1b.png'
+thumbnail: '/images/reaction2b.png'
 tags:   methode
 ---
 
