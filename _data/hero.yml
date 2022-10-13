@@ -5,10 +5,10 @@ images:
   background:
     desktop: '/images/Banner-home-screen.png'
     mobile: '/images/havenlon2-background.png'
-  left: '/images/havenlon2-title.png'
+  left:
   right: null
 text:
 button:
   url: '/romans/l-imperatrice-de-l-ombre'
   text: Découvrir...
-editor_logo:
+editor_logo: '/images/rroyzz.png'
