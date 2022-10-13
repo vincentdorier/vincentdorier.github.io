@@ -3,12 +3,12 @@
 title: Les Automates de Havenlon, le cycle de Havenlon, II
 images:
   background:
-    desktop: '/images/havenlon2-bannerb.png'
+    desktop: '/images/Banner-home-screen.png'
     mobile: '/images/havenlon2-background.png'
   left: '/images/havenlon2-title.png'
   right: null
-text: Sortie le 17 . 09 . 2022
+text:
 button:
   url: '/romans/l-imperatrice-de-l-ombre'
   text: Découvrir...
-editor_logo: /images/rroyzz.png
+editor_logo:
