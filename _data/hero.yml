@@ -5,7 +5,7 @@ images:
   background:
     desktop: '/images/Banner-home-screen.png'
     mobile: '/images/havenlon2-background.png'
-  left:
+  left: '/images/banner-invisible-title.png'
   right: null
 text:
 button:
