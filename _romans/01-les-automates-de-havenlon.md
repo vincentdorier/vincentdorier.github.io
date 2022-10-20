@@ -44,7 +44,7 @@ génie insoupçonnée des bas-quartiers.
 ## Commander
 
 - [RroyzZ Editions](https://www.rroyzzeditions.com/fr/fantastique/286-les-automates-de-havenlon-vincent-dorier.html)
-- [Amazon France](https://www.amazon.fr/dp/236372304X/)
+- [Amazon France]([https://www.amazon.fr/dp/236372304X/](https://www.amazon.fr/gp/product/236372304X/ref=ewc_pr_img_1?smid=APJS1A7LG4UUM&psc=1))
 - [Fnac](https://livre.fnac.com/a16839497/Vincent-Dorier-Les-automates-de-Havenlon#omnsearchpos=1)
 
 ## En librarie
