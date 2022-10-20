@@ -33,6 +33,7 @@ d'une société en pleine fracture.
 - [RroyzZ Editions](https://www.rroyzzeditions.com/fr/fantasy/293-l-imperatrice-de-l-ombre-cycle-de-havenlon-ii-vincent-dorier.html)
 - [Amazon France](https://www.amazon.fr/gp/product/2363723112/ref=ewc_pr_img_1?smid=APJS1A7LG4UUM&psc=1)
 - [Fnac](https://www.fnac.com/livre-numerique/a17423118/Vincent-Dorier-L-imperatrice-de-l-ombre#omnsearchpos=2)
+- [Au Bonheure des Livres (Strasbourg)](https://www.facebook.com/AuBonheurDesLivres/)
 
 ## Informations
 
