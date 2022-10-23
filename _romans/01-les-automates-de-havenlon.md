@@ -55,6 +55,7 @@ génie insoupçonnée des bas-quartiers.
 - [L'intranquille](https://www.librairie-intranquille.fr/) _(Besançon)_
 - [La maison de la Presse](https://www.facebook.com/MDPBESANCON/) _(Besançon)_
 - [La librairie des Marais](https://librairiedesmarais.com/) _(Villefranche-sur-Saône)_
+- [La librairie Develay](https://ebook-develay.net/) _(Villefranche-sur-Saône)_
 - [L'Antre Temps](https://www.antretemps.com/) _(Thionville)_
 
 (Liste non exhaustive)
