@@ -4,8 +4,8 @@ title: Dédicaces Tome 5
 location: Thionville
 address: 46 Rue de Paris, 57100 Thionville
 date: 2023-01-14
-image: '/images/tome5-banner2.jpg'
-thumbnail: '/images/tome5-banner2.jpg'
+image: '/images/tome5-banner2.png'
+thumbnail: '/images/tome5-banner2.png'
 banner: '/images/develay-bannerb2.png'
 facebook:
 description: Dédicaces à la librairie Tome 5 de Thionville.
