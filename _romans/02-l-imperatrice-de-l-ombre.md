@@ -36,6 +36,7 @@ d'une société en pleine fracture.
 - [Au Bonheur des Livres](https://www.facebook.com/AuBonheurDesLivres/) _(Strasbourg)_
 - [La librairie des Marais](https://librairiedesmarais.com/) _(Villefranche-sur-Saône)_
 - [La librairie Develay](https://ebook-develay.net/) _(Villefranche-sur-Saône)_
+- [L'Antre Temps](https://www.antretemps.com/) _(Thionville)_
 
 ## Informations
 
