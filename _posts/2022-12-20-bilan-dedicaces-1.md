@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  3 mois de dédicaces
+title:  Mes 3 premiers mois de dédicaces
 date:   2022-12-20
 image:  '/images/post-dedicaces2022-main.png'
 thumbnail: '/images/post-dedicaces2022-thumbnail.png'
 tags:   news
 ---
-
-## Mes 3 premiers mois de dédicaces !
 
 Samedi dernier je signais mon dernier roman en 2022.
 
