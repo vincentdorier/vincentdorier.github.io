@@ -6,7 +6,7 @@ address: 46 Rue de Paris, 57100 Thionville
 date: 2023-01-14
 image: '/images/tome5-banner2.png'
 thumbnail: '/images/tome5-banner2.png'
-banner: '/images/develay-bannerb2.png'
+banner: '/images/event-dedicaces-banner.png'
 facebook:
 description: Dédicaces à la librairie Tome 5 de Thionville.
 permalink: /evenements/2023-01-14-tome5
