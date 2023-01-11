@@ -2,8 +2,8 @@
 layout: post
 title:  3 mois de dédicaces
 date:   2022-12-20
-image:  '/images/1_2.png'
-thumbnail: '/images/1.png'
+image:  '/images/post-dedicaces2022-main.png'
+thumbnail: '/images/post-dedicaces2022-thumbnail.png'
 tags:   dedicaces
 ---
 
