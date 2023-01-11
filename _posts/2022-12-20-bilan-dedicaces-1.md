@@ -4,7 +4,7 @@ title:  3 mois de dédicaces
 date:   2022-12-20
 image:  '/images/post-dedicaces2022-main.png'
 thumbnail: '/images/post-dedicaces2022-thumbnail.png'
-tags:   dedicaces
+tags:   news
 ---
 
 ## Mes 3 premiers mois de dédicaces !
