@@ -40,6 +40,8 @@ d'une société en pleine fracture.
 - [Dreamland](http://dreamland-metz.fr/) _(Metz)_
 - [L'Antre Temps](https://www.antretemps.com/) _(Thionville)_
 
+(Liste non exhaustive)
+
 ## Informations
 
 |-|-|
