@@ -19,7 +19,7 @@ permalink: /romans/l-imperatrice-de-l-ombre
 >
 > Jasper Owl, jeune reporter aux méthodes douteuses, fera tout pour rencontrer la célèbre Rosaline Priscott et obtenir le scoop qui propulsera son journal sur le devant de la scène. Parviendra-t-il à révéler au grand jour les secrets de la génie de Havenlon, au risque de réveiller une ancienne colère grondant sous les tuiles des bas quartiers ?
 
-« L'impératrice de l'ombre », deuxième tome du Cycle de Havenlon, est une aventure
+« L'impératrice de l'ombre », deuxième opus du Cycle de Havenlon, est une aventure
 steampunk-fantasy de 378 pages éditée chez RroyzZ. L'histoire se déroule quatre ans après
 les événements du premier livre et suit un nouveau personnage, Jasper Owl, jeune
 reporter des bas quartiers, qui offre un nouveau point de vue sur cette grande cité
