@@ -43,20 +43,19 @@ génie insoupçonnée des bas-quartiers.
 
 ## Commander
 
-- [RroyzZ Editions](https://www.rroyzzeditions.com/fr/fantastique/286-les-automates-de-havenlon-vincent-dorier.html)
 - [Amazon France](https://www.amazon.fr/gp/product/236372304X/ref=ewc_pr_img_1?smid=APJS1A7LG4UUM&psc=1)
-- [Fnac](https://livre.fnac.com/a16839497/Vincent-Dorier-Les-automates-de-Havenlon#omnsearchpos=1)
+- [L'Antre Temps](https://www.antretemps.com/le-cycle-de-havenlon-tome-01-les-automates-de-havenlon-a5516.html)
 
 ## En librarie
 
 - [Au bonheur des livres](https://www.facebook.com/AuBonheurDesLivres/) _(Strasbourg)_
-- [Librairie Grangier](https://www.librairie-grangier.com/) _(Dijon)_
 - [Ciel Rouge](https://www.ciel-rouge.fr/) _(Dijon)_
 - [L'intranquille](https://www.librairie-intranquille.fr/) _(Besançon)_
 - [La maison de la Presse](https://www.facebook.com/MDPBESANCON/) _(Besançon)_
 - [La librairie des Marais](https://librairiedesmarais.com/) _(Villefranche-sur-Saône)_
 - [La librairie Develay](https://ebook-develay.net/) _(Villefranche-sur-Saône)_
 - [L'Antre Temps](https://www.antretemps.com/) _(Thionville)_
+- [Dreamland](http://dreamland-metz.fr/) _(Metz)_
 
 (Liste non exhaustive)
 
