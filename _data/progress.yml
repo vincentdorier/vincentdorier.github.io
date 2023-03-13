@@ -3,13 +3,13 @@
   status: publié
 - title: L'impératrice de l'ombre
   percent: 100
-  status: publié  
-- title: Les égarés de l'altermonde
-  percent: 100
-  status: beta-lecture
+  status: publié
 - title: Havenlon 3
   percent: 100
-  status: premier draft terminé
+  status: en relecture
+- title: Les égarés de l'altermonde
+  percent: 100
+  status: terminé
 - title: Cinq Visages tome 1/2
   percent: 50
   status: draft 4
