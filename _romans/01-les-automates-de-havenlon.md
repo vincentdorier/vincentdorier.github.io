@@ -43,7 +43,6 @@ génie insoupçonnée des bas-quartiers.
 
 ## Commander
 
-- [Amazon France](https://www.amazon.fr/gp/product/236372304X/ref=ewc_pr_img_1?smid=APJS1A7LG4UUM&psc=1)
 - [L'Antre Temps](https://www.antretemps.com/le-cycle-de-havenlon-tome-01-les-automates-de-havenlon-a5516.html)
 
 ## En librarie
