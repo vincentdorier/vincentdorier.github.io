@@ -3,13 +3,13 @@ layout: evenement
 title: Fête du Livre de Scy-Chazelles
 location: Espace Liberté
 address: 1, rue de la Passerine 57160 Scy-Chazelles
-date: 2023-06-03
-image: '/images/event-scy-main.png'
+date: 2023-09-02
+image: '/images/event-scy-banner.png'
 thumbnail: '/images/event-scy-thumbnail.png'
 banner: '/images/event-dedicaces-banner.png'
 facebook:
 description: Dédicaces à la Fête du Livre et la Culture de Scy-Chazelles.
-permalink: /evenements/2023-06-05-sarrebourg
+permalink: /evenements/2023-09-02-scy-chazelles
 
 ---
 
