@@ -21,7 +21,7 @@ Qu’est-ce qui ne va pas dans cette histoire ? Le scénario n’est pas inorigi
 
 Parce que le roman s’appelle « Quatre Régicides ».
 
-Pendant 500 pages, le lecteur suit les tourments intérieurs d’Arkana, et va découvrir ce qui l’amène à décider de tuer chacun des rois. Mais pendant ces même 500 pages, le lecteur SAIT ce qui va arriver. Il SAIT qu’Arkana va tuer les quatre rois, ou au moins les trois premiers (s’il y a un twist final). Il donc une dissonance entre ce que le lecteur sait de l’histoire, et ce que le protagoniste sait.
+Pendant 500 pages, le lecteur suit les tourments intérieurs d’Arkana, et va découvrir ce qui l’amène à décider de tuer chacun des rois. Mais pendant ces même 500 pages, le lecteur SAIT ce qui va arriver. Il SAIT qu’Arkana va tuer les quatre rois, ou au moins les trois premiers (s’il y a un twist final). Il y a donc une dissonance entre ce que le lecteur sait de l’histoire, et ce que le protagoniste sait.
 
 Ceci n’est pas un problème en soi, il existe des montagnes d’histoire où, à certains moments du moins, le lecteur sait quelque chose que le protagoniste ne sait pas – quand c’est bien fait, ça rend le récit encore plus intéressant. Le problème, c’est que l’écrivain (ici, moi) a écrit l’histoire d’Arkana comme si le lecteur en savait autant qu’elle. Rappelez-vous : on a de l’aventure, on a des histoires de guerres, d’emprisonnement… Le récit passe donc la majeure partie de son temps à construire un pont, pierre par pierre, pendant que le lecteur a déjà en tête le pont final et doit attendre, patiemment, qu’on lui permette de franchir la rivière.
 
