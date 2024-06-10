@@ -2,14 +2,17 @@
   percent: 100
   status: publiés
 - title: Havenlon 3
-  percent: 80
-  status: version 3.0
+  percent: 90
+  status: v3.0 en relecture
 - title: Les égarés de l'altermonde
   percent: 100
   status: terminé
 - title: Icho (titre provisoire)
+  percent: 25
+  status: version 0.5
+- title: Xemini (titre provisoire)
   percent: 100
-  status: version 0.4
+  status: version 1.0
 - title: Cinq Visages tome 1/2
   percent: 50
   status: version 4.0
