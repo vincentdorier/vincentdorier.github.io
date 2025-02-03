@@ -43,7 +43,7 @@ génie insoupçonnée des bas-quartiers.
 
 ## Commander
 
-- [L'Antre Temps](https://www.antretemps.com/le-cycle-de-havenlon-tome-01-les-automates-de-havenlon-a5516.html)
+- [Contactez-moi](https://vincentdorier.com/contact/) pour commander un exemplaire de la 1ère édition !
 
 ## En librarie
 
@@ -52,8 +52,6 @@ génie insoupçonnée des bas-quartiers.
 - [L'intranquille](https://www.librairie-intranquille.fr/) _(Besançon)_
 - [La maison de la Presse](https://www.facebook.com/MDPBESANCON/) _(Besançon)_
 - [La librairie des Marais](https://librairiedesmarais.com/) _(Villefranche-sur-Saône)_
-- [La librairie Develay](https://ebook-develay.net/) _(Villefranche-sur-Saône)_
-- [L'Antre Temps](https://www.antretemps.com/) _(Thionville)_
 - [Dreamland](http://dreamland-metz.fr/) _(Metz)_
 
 (Liste non exhaustive)
