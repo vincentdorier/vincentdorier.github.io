@@ -30,7 +30,7 @@ d'une société en pleine fracture.
 
 ## Commander
 
-- [L'Antre Temps](https://www.antretemps.com/le-cycle-de-havenlon-tome-02-limperatrice-de-lombre-a7906.html)
+- [Contactez-moi](https://vincentdorier.com/contact/) pour commander un exemplaire de la 1ère édition !
 
 ## En librarie
 
@@ -38,7 +38,6 @@ d'une société en pleine fracture.
 - [La librairie des Marais](https://librairiedesmarais.com/) _(Villefranche-sur-Saône)_
 - [La librairie Develay](https://ebook-develay.net/) _(Villefranche-sur-Saône)_
 - [Dreamland](http://dreamland-metz.fr/) _(Metz)_
-- [L'Antre Temps](https://www.antretemps.com/) _(Thionville)_
 
 (Liste non exhaustive)
 
